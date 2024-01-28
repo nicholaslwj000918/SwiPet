@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "20879013970",
+    "project_id": "swipet-bd000",
+    "storage_bucket": "swipet-bd000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20879013970:android:8671eb36b8cc0b63b9878b",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20879013970-8dh5viftcfeonmd07h6o2jvv6rj4vtti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQoedaUgOh8T_6Ib6gk7ZpeTp4JlS-Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20879013970-8dh5viftcfeonmd07h6o2jvv6rj4vtti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20879013970-s0pnlvosqpk6du841erat6shjk38fdjg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
